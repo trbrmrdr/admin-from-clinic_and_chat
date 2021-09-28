@@ -1,0 +1,15 @@
+<template lang="pug">
+
+.status
+
+</template>
+<script>
+export default {
+    
+}
+</script>
+<style lang="stylus" scoped>
+
+
+
+</style>

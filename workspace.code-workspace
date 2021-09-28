@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "server",
+			"path": "server"
+		},
+		{
+			"name": "doctor",
+			"path": "client\\src"
+		},
+		{
+			"name": "patient",
+			"path": "patient\\src"
+		}
+	],
+	"settings": {}
+}
